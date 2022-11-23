@@ -1,4 +1,4 @@
-- NWhat parts make up a git project?
+- NWhat parts make up a git project? Answer 
 
 - PWhat is correct command to initialize a new git repository ?
 
