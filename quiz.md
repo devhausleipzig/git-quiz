@@ -15,7 +15,7 @@
 
 - PTo make a new git branch, the git command is?
 
-- RAfter you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+- RAfter you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured? wtf
 
 - NGit fetch + git merge equals to?
 
