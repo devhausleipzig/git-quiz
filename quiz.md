@@ -4,7 +4,7 @@
   Answer Thierry
 
 - RWhat is correct command to stage a new file or add file changes to stage? who knows
-
+  question 51 t.d
 - NWhat is correct command to commit staged files?
   Second answer thierry
 - PWhat is correct command to check the current git status?
