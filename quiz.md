@@ -1,4 +1,7 @@
 - What parts make up a git project?
+  Repository, which is basiclly a folder with all the nesessary Files.
+  It can show you the history of your projects and your code.
+  It allows people to work together.
 
 - What is correct command to initialize a new git repository ?
 
