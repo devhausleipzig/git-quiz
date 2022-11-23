@@ -1,4 +1,5 @@
 - What parts make up a git project?
+  We have the main branch, development branches and GitHub as an intermediary
 
 - What is correct command to initialize a new git repository ?
 
