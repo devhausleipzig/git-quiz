@@ -3,7 +3,7 @@
 - PWhat is correct command to initialize a new git repository ?
   Answer Thierry
 
-- RWhat is correct command to stage a new file or add file changes to stage?
+- RWhat is correct command to stage a new file or add file changes to stage? who knows
 
 - NWhat is correct command to commit staged files?
 
