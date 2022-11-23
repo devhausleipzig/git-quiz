@@ -1,6 +1,7 @@
-- NWhat parts make up a git project? Answer 
+- NWhat parts make up a git project? Answer
 
 - PWhat is correct command to initialize a new git repository ?
+  Answer Thierry
 
 - RWhat is correct command to stage a new file or add file changes to stage?
 
