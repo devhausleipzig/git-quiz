@@ -22,5 +22,6 @@
 - PThe act of transferring commits from your local repository to a remote repository is known as?
 
 - RWhich command is used to return to the main branch?
+  git checkout main of course
 
 - NWhich command deletes untracked for your working directory?
