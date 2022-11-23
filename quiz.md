@@ -9,7 +9,7 @@
 
 - PWhat is correct command to check the current git status?
 
-- RTo stage only files with a .txt extention, the command is?
+- RTo stage only files with a .txt extention, the command is? nobody knows the answer to this
 
 - NAssuming a remote reposistory at https://github.com/myawesomegitname/my_repo.git, how would you add the remote repository to your local git?
 
