@@ -1,4 +1,7 @@
 - What parts make up a git project?
+  - Working directory
+  - Staging Area
+  - Repository
 
 - What is correct command to initialize a new git repository ?
 
